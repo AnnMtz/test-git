@@ -1,7 +1,9 @@
 # test-git
 
-### Repositorio prueba
+### Repositorio prueba IEXE 
 
-IEXE Repositorio prueba 
+Repositorio prueba 
 
- #### Actividades GIT
+#### Actividades GIT 
+
+Ejercicios de git
